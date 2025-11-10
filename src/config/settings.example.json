@@ -1,0 +1,5 @@
+{
+  "usernames": ["instagram"],
+  "output_format": "json",
+  "output_file": "../data/sample_output.json"
+}
